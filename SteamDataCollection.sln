@@ -1,0 +1,38 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamDataCollection", "SteamDataCollection\SteamDataCollection.csproj", "{F03056C9-B48C-4199-90AE-34CCCA2BB59C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5FA2C8AE-7C04-49AC-A917-CE835F4D612C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03056C9-B48C-4199-90AE-34CCCA2BB59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03056C9-B48C-4199-90AE-34CCCA2BB59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03056C9-B48C-4199-90AE-34CCCA2BB59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03056C9-B48C-4199-90AE-34CCCA2BB59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$0.VersionControlPolicy = $6
+	EndGlobalSection
+EndGlobal
